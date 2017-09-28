@@ -1,7 +1,7 @@
 # SNA
 
 
-This repo was written in 2014. 
+The code in this repo was written in 2014. 
 
 The code for this analysis is based on the book "Social Network Analysis for Startups" by Maksim Tsvetovat. 
 

@@ -15,4 +15,4 @@ A specific library was developed for each type of node using the "networkx.weigh
 
 Since the goal is to generate and visualize network data automatically (i.e. from the app to the computer without using 3rd party software) an graphic user interface was also developed in order to make the analysis slightly more interactive. 
 
-The source code for the GUI can be found at "GUI.py". The GUI shows the affiliate network and its projected networks. 
+The source code for the GUI can be found at "GUI.py". The GUI shows the affiliate network and its projected networks. Examples of GUI output can be found in the png files in this repo. 
